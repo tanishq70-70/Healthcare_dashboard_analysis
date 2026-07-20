@@ -1,1 +1,3 @@
-# Healthcare_dashboard_analysis
+This project presents an interactive Power BI dashboard built to analyze healthcare data and generate actionable insights for hospital administrators and decision-makers. It consolidates patient records, admissions, demographics, and operational metrics into a single, easy-to-navigate view — enabling faster, data-driven decisions around patient care and resource management.
+
+The dashboard covers key areas such as patient demographics, admission and visit trends, department/resource utilization, and overall hospital performance indicators. Raw data was cleaned and transformed using Power Query, with custom DAX measures powering the KPIs and visualizations. The goal is to turn scattered healthcare data into clear, visual insights that support better operational planning and improved patient outcomes.
